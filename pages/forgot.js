@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import Company from "../public/assets/nav.png";
+import Company from "../public/Assets/nav.png";
 import Image from "next/image";
 
 const Forgot = () => {
